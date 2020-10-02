@@ -1,0 +1,2 @@
+# BankaSimulator
+Úkol na MVOP 
